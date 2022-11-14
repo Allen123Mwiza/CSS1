@@ -1,0 +1,18 @@
+#myheader{
+    background-color: rosybrown;
+    padding: 20px;
+    color: rgb(116, 230, 116);
+    margin: 20px;
+    border:2px solid rgb(15, 15, 15) ;
+}
+
+.dislikes{
+    background-color: tomato;
+    color: black;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+   
+
+    
+}
